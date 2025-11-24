@@ -28,12 +28,11 @@ La configuration des équipements gestionmsg est accessible à partir du menu pl
 Depuis cette fenêtre, on peut gérer les destinataires:
 * **Ajouter** : ajout d'un destinataire
 * **Ajouter Users Jeedom** : ajout des utilisateurs Jeedom configurés dans la section *Réglages->Système->Utilisateurs*
-                             - leur numero de téléphone et e-mail sont renseignés **uniquement** si les plugins *mail et sms* sont installés et qu'une commande portant le nom du User est configurée
-                             sinon il faut le renseigner manuellement.
-                             - si un destinataire porte le nom d'un User Jeedom alors les champs tel et mail sont remplacés si vide.
+ - leur numero de téléphone et e-mail sont renseignés **uniquement** si les plugins *mail et sms* sont installés et qu'une commande portant le nom du User est configurée sinon il faut le renseigner manuellement.
+ - si un destinataire porte le nom d'un User Jeedom alors les champs tel et mail sont remplacés si vide.
 * **SynchroJeedom** : permet de synchroniser les destinataires du plugin gestionmsg avec les users Jeedom et les plugins de type communication (*mail et sms*).
-                      - Si le destinataire n'existe pas dans les Users alors un User du nom du destinataire sera créé (il sera non actif, et sans droits).
-                      - Si une commande porte le nom du destinataire dans les plugins de type communication alors les numeros de telephone et e-mail seront mis à jour.
+ - Si le destinataire n'existe pas dans les Users alors un User du nom du destinataire sera créé (il sera non actif, et sans droits).
+ - Si une commande porte le nom du destinataire dans les plugins de type communication alors les numeros de telephone et e-mail seront mis à jour.
 * **Supprimer**: permet de supprimer en meme temps les destinataires selectionnés 
 
 **LE PLUGIN AJOUTE OU MET A JOUR JEEDOM OU LES AUTRES PLUGINS MAIS NE SUPPRIME PAS DES COMMANDES.**
