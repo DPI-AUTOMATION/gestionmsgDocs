@@ -28,15 +28,27 @@ La configuration des équipements gestionmsg est accessible à partir du menu pl
 Depuis cette fenêtre, on peut gérer les destinataires:
 * **Ajouter** : ajout d'un destinataire
 * **Ajouter Users Jeedom** : ajout des utilisateurs Jeedom configurés dans la section *Réglages->Système->Utilisateurs*
-                             leur numero de téléphone et e-mail sont renseignés **uniquement** si les plugins *mail et sms* sont installés et qu'une commande portant le nom du User est configurée
+                             - leur numero de téléphone et e-mail sont renseignés **uniquement** si les plugins *mail et sms* sont installés et qu'une commande portant le nom du User est configurée
                              sinon il faut le renseigner manuellement.
-                             si un destinataire porte le nom d'un User Jeedom alors les champs tel et mail sont remplacés si vide.
-* **SynchroJeedom** : permet de synchroniser les destinataires du plugin gsetionmsg avec les users Jeedom et les plugins de type communication (*mail et sms*).
-                      si le destinataires n'existe pas dans les Users alors un Users du nom du destinataire sera créé (il sera non actif, et sans droits).
-                      si une commande porte le nom du destinataire dans les plugins de type communication alors les numeros de telephone et e-mail seront mis à jour.
+                             - si un destinataire porte le nom d'un User Jeedom alors les champs tel et mail sont remplacés si vide.
+* **SynchroJeedom** : permet de synchroniser les destinataires du plugin gestionmsg avec les users Jeedom et les plugins de type communication (*mail et sms*).
+                      - Si le destinataire n'existe pas dans les Users alors un User du nom du destinataire sera créé (il sera non actif, et sans droits).
+                      - Si une commande porte le nom du destinataire dans les plugins de type communication alors les numeros de telephone et e-mail seront mis à jour.
 * **Supprimer**: permet de supprimer en meme temps les destinataires selectionnés 
 
+**LE PLUGIN AJOUTE OU MET A JOUR JEEDOM OU LES AUTRES PLUGINS MAIS NE SUPPRIME PAS DES COMMANDES.**
 
+
+![Image modal Entete](/images/mdGestionDestinatairesEntete.PNG)
+
+* **LOGIN** : renseigner le nom du destinataire.
+* **E-mail** : renseigner l'e-mail du destinataire.
+* **Tel.** : renseigner le numero de telephone du destinataire au format +33xxxxxxxxx.
+* **Utilisateur Jeedom** : indique si le destinataire est un User Jeedom.
+* **Synchronisé** : indique si il y a eu une SynchroJeedom (la date et heure s'affichent).
+* **Actions** : Sauvegarder ou Supprimer destinataire.
+* **Selection** : si cochée alors tous les destinataires sont selectionnés. (pour par exemple supprimer plusieurs destinataires en meme temps).
+                
 
 ## Ajouter un équipement gestionmsg
 
