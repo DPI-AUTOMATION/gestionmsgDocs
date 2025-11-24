@@ -10,20 +10,20 @@ Après avoir installé le plugin, il vous suffit de l’activer. Ce plugin n’a
 # Configuration des équipements
 La configuration des équipements gestionmsg est accessible à partir du menu plugin :
 
-![Mon image](images/ConfEqChemin.png)
+![Image Chemin Equipement](/images/ConfEqChemin.png)
 
 
 ## Page d'Accueil
 
-![Mon image](images/ConfEqAccueil.png)
+![Image Accueil Equipement](/images/ConfEqAccueil.png)
 
 ### Gestion des destinataires
 
-![Mon image](images/mdGestionDestinataires.png)
+![Image modal Gestion Destinataires](/images/mdGestionDestinataires.png)
 
 ### Ajouter un équipement gestionmsg
 
-![Mon image](images/EqAccueil.png)
+![Image Accueil Equipement](/images/EqAccueil.png)
 
 
 
