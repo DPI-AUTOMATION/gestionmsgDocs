@@ -94,22 +94,22 @@ Cet Onglet permet de gérer les groupes de destinataire.
 <details><summary>**Onglet Message**</summary>
  
 Cet Onglet permet de gérer les messages.
-![Image Accueil Equipement](/images/EqOngletMsg0.PNG)
+![Image onglet message](/images/EqOngletMsg0.PNG)
 
 1. Cliquer sur le bouton **Ajouter un type de message**
 2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau type de message: ex. MAIL
 
 3.le message type est créé: ex.MAIL
-![Image Accueil Equipement](/images/EqOngletMsg1.PNG)
+![Image onglet message après ajout](/images/EqOngletMsg1.PNG)
 
 4.maintenant il faut lui attribuer un groupe:
-![Image Accueil Equipement](/images/EqOngletMsgSelect.PNG)
+![Image onglet message select groupe](/images/EqOngletMsgSelect.PNG)
 
 5.Attribuer une commande: ex.le plugin mail est installée avec un equipement testMail.
-![Image Accueil Equipement](/images/EqOngletMsg1Zoom1.PNG)
+![Image onglet message commande](/images/EqOngletMsg1Zoom1.PNG)
 
 6.Saisir un message: ex.test message Mail.
-![Image Accueil Equipement](/images/EqOngletMsg1Zoom2.PNG)
+![Image onglet message message](/images/EqOngletMsg1Zoom2.PNG)
 
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 ![Image BtnSauvegarderTout](/images/SauvegarderGeneral.PNG)
@@ -117,4 +117,15 @@ Cet Onglet permet de gérer les messages.
 </details>
 
 # Widget du Plugin
+![Image widget](/images/Widget1.PNG)
 
+Sur le widget, on retouve le contenu de l'onglet message.
+
+**Depuis cette interface on peut**:
+*activer/desactiver l'envoi du message
+*modifier le groupe
+*modifier le message
+
+**Il faut ensuite cliquer sur le bouton Sauvegarder**
+
+Un bouton *Tester* est present permet de tester l'envoi des messages sans attendre le declenchement du declencheur.
