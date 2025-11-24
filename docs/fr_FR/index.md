@@ -55,7 +55,7 @@ Depuis cette fenêtre, on peut gérer les destinataires:
 
 Même principe que pour tous les équipements Jeedom, après avoir saisi le nom la page suivante s'affiche:
 
-<details><summary>### Onglet Equipement</summary>
+<details><summary>**Onglet Equipement**</summary>
 
 ![Image Accueil Equipement](/images/EqAccueil.PNG)
 
@@ -67,7 +67,7 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 
 </details>
 
-<details><summary>### Onglet Destinataires</summary>
+<details><summary>**Onglet Destinataires**</summary>
 
 Cet Onglet permet de gérer les groupes de destinataire.
 
@@ -91,7 +91,7 @@ Cet Onglet permet de gérer les groupes de destinataire.
 
 </details>
 
-<details><summary>### Onglet Message</summary>
+<details><summary>**Onglet Message**</summary>
  
 Cet Onglet permet de gérer les messages.
 ![Image Accueil Equipement](/images/EqOngletMsg0.PNG)
@@ -116,5 +116,5 @@ Cet Onglet permet de gérer les messages.
 
 </details>
 
-# WIDGET DU PLUGIN
+# Widget du Plugin
 
