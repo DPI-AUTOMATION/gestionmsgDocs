@@ -37,9 +37,9 @@ Depuis cette fenêtre, on peut gérer les destinataires:
 
 **LE PLUGIN AJOUTE OU MET A JOUR JEEDOM OU LES AUTRES PLUGINS MAIS NE SUPPRIME PAS DES COMMANDES.**
 
----
 
-![Image modal Entete](/images/mdGestionDestinatairesEntete.PNG)
+
+![Image modal Entete](/images/mdGestionDestinatairesEx.PNG)
 
 * **LOGIN** : renseigner le nom du destinataire.
 * **E-mail** : renseigner l'e-mail du destinataire.
