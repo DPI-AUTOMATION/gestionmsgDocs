@@ -21,6 +21,7 @@ La configuration des équipements gestionmsg est accessible à partir du menu pl
 * **Configuration** : permet d'accéder à la configuration du PLUGIN
 * **Gestion Destinataire** : permet de gérer les destinataires (nom, e-mail, tel...)
 
+***
 ## Gestion des destinataires
 
 ![Image modal Gestion Destinataires](/images/mdGestionDestinataires.PNG)
