@@ -62,7 +62,7 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 * **Objet parent** : indique l’objet parent auquel appartient l’équipement
 * **Activer** : permet de rendre votre équipement actif
 * **Visible** : rend votre équipement visible sur le dashboard
-* **Déclencheur** : selectionner la commande de **type Info** qui déclenche l'envoi des messages.
+* **Déclencheur** : selectionner la commande de **type Info** qui déclenche l'envoi des messages actifs de l'onglet Message.
 
 ### Onglet Destinataires
 
@@ -70,11 +70,11 @@ Cet Onglet permet de gérer les groupes de destinataire.
 
 ![Image Accueil Equipement](/images/EqOngletGroup0.PNG)
 
-1. Cliquer sur le bouton Ajouter un groupe
+1. Cliquer sur le bouton **Ajouter un groupe**
 2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau groupe: ex. TEST
    ![Image Accueil Equipement](/images/EqOngletGroupNom.PNG)
  
-3. le groupe est créé; ex.TEST
+3. le groupe est créé: ex.TEST
 ![Image Accueil Equipement](/images/EqOngletGroup1.5.PNG)
 
 4. Maintenant vous pouvez ajouter des destinataires au groupe en cliquant sur le bouton **Destinataire**. La page suivante s'affiche:
@@ -88,7 +88,27 @@ Cet Onglet permet de gérer les groupes de destinataire.
 
 
 ### Onglet Message
+Cet Onglet permet de gérer les messages.
+![Image Accueil Equipement](/images/EqOngletMsg0.PNG)
 
+1. Cliquer sur le bouton **Ajouter un type de message**
+2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau type de message: ex. MAIL
+
+3.le message type est créé: ex.MAIL
 ![Image Accueil Equipement](/images/EqOngletMsg1.PNG)
 
+4.maintenant il faut lui attribuer un groupe:
+![Image Accueil Equipement](/images/EqOngletMsgSelect.PNG)
+
+5.Attribuer une commande: ex.le plugin mail est installée avec un equipement testMail.
+![Image Accueil Equipement](/images/EqOngletMsg1Zoom1.PNG)
+
+6.Saisir un message: ex.test message Mail.
+![Image Accueil Equipement](/images/EqOngletMsg1Zoom2.PNG)
+
+**SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
+![Image BtnSauvegarderTout](/images/SauvegarderGeneral.PNG)
+
+
+# WIDGET DU PLUGIN
 
