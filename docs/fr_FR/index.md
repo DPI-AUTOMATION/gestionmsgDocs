@@ -75,13 +75,13 @@ Cet Onglet permet de gérer les groupes de destinataire.
    ![Image Accueil Equipement](/images/EqOngletGroupNom.PNG)
  
 3. le groupe est créé; ex.TEST
-![Image Accueil Equipement](/images/EqOngletGroup1.PNG)
-
-4. Maintenant vous pouvez ajouter des destinataires au groupe en cliquant sur le bouton **Destinataire**. La page suivante s'affiche:
 ![Image Accueil Equipement](/images/EqOngletGroup1.5.PNG)
 
-5. Selectionner les Destinataires et Sauvegarder. Le groupe est complété avec les destinataires selectionnés.
+4. Maintenant vous pouvez ajouter des destinataires au groupe en cliquant sur le bouton **Destinataire**. La page suivante s'affiche:
 ![Image Accueil Equipement](/images/EqOngletGroup2.PNG)
+
+5. Selectionner les Destinataires et Sauvegarder. Le groupe est complété avec les destinataires selectionnés.
+![Image Accueil Equipement](/images/EqOngletGroup1.PNG)
 
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 ![Image BtnSauvegarderTout](/images/SauvegarderGeneral.PNG)
