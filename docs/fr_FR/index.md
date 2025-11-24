@@ -50,12 +50,12 @@ Depuis cette fenêtre, on peut gérer les destinataires:
 * **Actions** : Sauvegarder ou Supprimer destinataire.
 * **Selection** : si cochée alors tous les destinataires sont selectionnés. (pour par exemple supprimer plusieurs destinataires en meme temps).
                 
-
+***
 ## Ajouter un équipement gestionmsg
 
 Même principe que pour tous les équipements Jeedom, après avoir saisi le nom la page suivante s'affiche:
 
-### Onglet Equipement
+<details><summary>### Onglet Equipement</summary>
 
 ![Image Accueil Equipement](/images/EqAccueil.PNG)
 
@@ -65,7 +65,9 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 * **Visible** : rend votre équipement visible sur le dashboard
 * **Déclencheur** : selectionner la commande de **type Info** qui déclenche l'envoi des messages actifs de l'onglet Message.
 
-### Onglet Destinataires
+</details>
+
+<details><summary>### Onglet Destinataires</summary>
 
 Cet Onglet permet de gérer les groupes de destinataire.
 
@@ -87,8 +89,10 @@ Cet Onglet permet de gérer les groupes de destinataire.
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 ![Image BtnSauvegarderTout](/images/SauvegarderGeneral.PNG)
 
+</details>
 
-### Onglet Message
+<details><summary>### Onglet Message</summary>
+ 
 Cet Onglet permet de gérer les messages.
 ![Image Accueil Equipement](/images/EqOngletMsg0.PNG)
 
@@ -110,6 +114,7 @@ Cet Onglet permet de gérer les messages.
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 ![Image BtnSauvegarderTout](/images/SauvegarderGeneral.PNG)
 
+</details>
 
 # WIDGET DU PLUGIN
 
