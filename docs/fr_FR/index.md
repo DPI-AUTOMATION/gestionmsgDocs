@@ -52,8 +52,35 @@ Depuis cette fenêtre, on peut gérer les destinataires:
 
 ## Ajouter un équipement gestionmsg
 
+Même principe que pour tous les équipements Jeedom, après avoir saisi le nom la page suivante s'affiche:
+
+### Onglet Equipement
+
 ![Image Accueil Equipement](/images/EqAccueil.PNG)
 
+* **Nom de l’équipement** : nom de votre équipement gestionmsg
+* **Objet parent** : indique l’objet parent auquel appartient l’équipement
+* **Activer** : permet de rendre votre équipement actif
+* **Visible** : rend votre équipement visible sur le dashboard
+* **Déclencheur** : selectionner la commande de **type Info** qui déclenche l'envoi des messages.
 
+### Onglet Destinataires
+
+Cet Onglet permet de gérer les groupes de destinataire.
+
+![Image Accueil Equipement](/images/EqOngletGroup1.PNG)
+
+1. Cliquer sur le bouton Ajouter un groupe
+2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau groupe:
+   ![Image Accueil Equipement](/images/EqOngletGroupNom.PNG)
+ 
+3. le groupe est créé
+![Image Accueil Equipement](/images/EqOngletGroup1.PNG)
+
+![Image Accueil Equipement](/images/EqOngletGroup2.PNG)
+
+### Onglet Message
+
+![Image Accueil Equipement](/images/EqOngletMsg1.PNG)
 
 
