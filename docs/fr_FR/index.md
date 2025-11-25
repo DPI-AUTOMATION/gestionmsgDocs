@@ -5,7 +5,7 @@ gestionmsg est un plugin **Jeedom** qui permet de gérer les destinataires et me
 # Configuration du plugin
 Après avoir installé le plugin, il vous suffit de l’activer. Ce plugin n’a aucune configuration particulière :
 
-![Image Configuration_Plugin](/../images/ConfPlugin.PNG)
+![Image Configuration_Plugin](../images/ConfPlugin.PNG)
 
 # Configuration des équipements
 La configuration des équipements gestionmsg est accessible à partir du menu plugin :
