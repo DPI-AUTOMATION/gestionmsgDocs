@@ -59,8 +59,8 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 ![Image Accueil Equipement](../images/EqAccueil.PNG)
 
 <details><summary>Cliquer pour afficher details</summary>
+<img src="/images/EqAccueil.PNG" alt="alt" width="100%">
 
-![Image Accueil Equipement](../images/EqAccueil.PNG)
 
 * **Nom de l’équipement** : nom de votre équipement gestionmsg
 * **Objet parent** : indique l’objet parent auquel appartient l’équipement
