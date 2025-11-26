@@ -56,7 +56,6 @@ Depuis cette fenêtre, on peut gérer les destinataires:
 Même principe que pour tous les équipements Jeedom, après avoir saisi le nom la page suivante s'affiche:
 
 ### Onglet Equipement
-<details><summary>Cliquer pour afficher details</summary>
 
 ![Image Accueil Equipement](../images/EqAccueil.PNG)
 
@@ -66,11 +65,9 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 * **Visible** : rend votre équipement visible sur le dashboard
 * **Déclencheur** : selectionner la commande de **type Info** qui déclenche l'envoi des messages actifs de l'onglet Message.
 
-</details>
 
 
 ### Onglet Destinataires
-<details><summary>Cliquer pour afficher details</summary>
 
 Cet Onglet permet de gérer les groupes de destinataire.
 
@@ -97,10 +94,8 @@ Cet Onglet permet de gérer les groupes de destinataire.
 
 ![Image BtnSauvegarderTout](../images/SauvegarderGeneral.PNG)
 
-</details>
 
 ### Onglet Message
-<details><summary>Cliquer pour afficher details</summary>
  
 Cet Onglet permet de gérer les messages.
 
@@ -128,7 +123,6 @@ Cet Onglet permet de gérer les messages.
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 ![Image BtnSauvegarderTout](../images/SauvegarderGeneral.PNG)
 
-</details>
 
 # Widget du Plugin
 ![Image widget](../images/Widget1.PNG)
