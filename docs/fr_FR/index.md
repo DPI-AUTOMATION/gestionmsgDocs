@@ -76,7 +76,7 @@ Cet Onglet permet de gérer les groupes de destinataire.
 1. Cliquer sur le bouton **Ajouter un groupe**
 2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau groupe: ex. TEST
    
-   ![Image Accueil Equipement](../images/EqOngletGroupNom.PNG)
+![Image Accueil Equipement](../images/EqOngletGroupNom.PNG)
  
 4. le groupe est créé: ex.TEST
    
@@ -121,6 +121,7 @@ Cet Onglet permet de gérer les messages.
 ![Image onglet message message](../images/EqOngletMsg1Zoom2.PNG)
 
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
+
 ![Image BtnSauvegarderTout](../images/SauvegarderGeneral.PNG)
 
 
