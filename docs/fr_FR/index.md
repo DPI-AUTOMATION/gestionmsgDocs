@@ -56,11 +56,10 @@ Depuis cette fenêtre, on peut gérer les destinataires:
 Même principe que pour tous les équipements Jeedom, après avoir saisi le nom la page suivante s'affiche:
 
 ### Onglet Equipement
-![Image Accueil Equipement](../images/EqAccueil.PNG)
 
 <details><summary>Cliquer pour afficher details</summary>
-<img src="/images/EqAccueil.PNG" alt="alt" width="100%">
-
+ 
+<img src="../images/EqAccueil.PNG" alt="alt" width="100%">
 
 * **Nom de l’équipement** : nom de votre équipement gestionmsg
 * **Objet parent** : indique l’objet parent auquel appartient l’équipement
@@ -76,28 +75,28 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 
 Cet Onglet permet de gérer les groupes de destinataire.
 
-![Image Accueil Equipement](../images/EqOngletGroup0.PNG)
+<img src="../images/EqOngletGroup0.PNG" alt="alt" width="100%">
 
 1. Cliquer sur le bouton **Ajouter un groupe**
 2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau groupe: ex. TEST
-   
-   ![Image Accueil Equipement](../images/EqOngletGroupNom.PNG)
- 
+
+   <img src="../images/EqOngletGroupNom.PNG" alt="alt" width="100%">
+  
 4. le groupe est créé: ex.TEST
-   
-![Image Accueil Equipement](../images/EqOngletGroup1.5.PNG)
+
+<img src="../images/EqOngletGroup1.5.PNG" alt="alt" width="100%">   
 
 5. Maintenant vous pouvez ajouter des destinataires au groupe en cliquant sur le bouton **Destinataire**. La page suivante s'affiche:
-   
-![Image Accueil Equipement](../images/EqOngletGroup2.PNG)
+
+<img src="../images/EqOngletGroup2.PNG" alt="alt" width="100%">
 
 6. Selectionner les Destinataires et Sauvegarder. Le groupe est complété avec les destinataires selectionnés.
 
-![Image Accueil Equipement](../images/EqOngletGroup1.PNG)
+<img src="../images/EqOngletGroup1.PNG" alt="alt" width="100%">
 
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 
-![Image BtnSauvegarderTout](../images/SauvegarderGeneral.PNG)
+<img src="../images/SauvegarderGeneral.PNG" alt="alt" width="100%">
 
 </details>
 
@@ -106,29 +105,30 @@ Cet Onglet permet de gérer les groupes de destinataire.
  
 Cet Onglet permet de gérer les messages.
 
-![Image onglet message](../images/EqOngletMsg0.PNG)
+<img src="../images/EqOngletMsg0.PNG" alt="alt" width="100%">
 
 1. Cliquer sur le bouton **Ajouter un type de message**
 2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau type de message: ex. MAIL
 
 3.le message type est créé: ex.MAIL
 
-![Image onglet message après ajout](../images/EqOngletMsg1.PNG)
+<img src="../images/EqOngletMsg1.PNG" alt="alt" width="100%">
 
 4.maintenant il faut lui attribuer un groupe:
 
-![Image onglet message select groupe](../images/EqOngletMsgSelect.PNG)
+<img src="../images/EqOngletMsgSelect.PNG" alt="alt" width="100%">
 
 5.Attribuer une commande: ex.le plugin mail est installée avec un equipement testMail.
 
-![Image onglet message commande](../images/EqOngletMsg1Zoom1.PNG)
+<img src="../images/EqOngletMsg1Zoom1.PNG" alt="alt" width="100%">
 
 6.Saisir un message: ex.test message Mail.
 
-![Image onglet message message](../images/EqOngletMsg1Zoom2.PNG)
+<img src="../images/EqOngletMsg1Zoom2.PNG" alt="alt" width="100%">
 
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
-![Image BtnSauvegarderTout](../images/SauvegarderGeneral.PNG)
+
+<img src="../images/SauvegarderGeneral.PNG" alt="alt" width="100%">
 
 </details>
 
