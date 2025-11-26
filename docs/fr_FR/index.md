@@ -56,6 +56,8 @@ Depuis cette fenêtre, on peut gérer les destinataires:
 Même principe que pour tous les équipements Jeedom, après avoir saisi le nom la page suivante s'affiche:
 
 ### Onglet Equipement
+![Image Accueil Equipement](../images/EqAccueil.PNG)
+
 <details><summary>Cliquer pour afficher details</summary>
 
 ![Image Accueil Equipement](../images/EqAccueil.PNG)
