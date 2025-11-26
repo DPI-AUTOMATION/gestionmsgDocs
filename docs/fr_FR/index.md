@@ -55,7 +55,7 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 
 ### Onglet Equipement
 
-![Image widget](../images/EqAccueil.PNG")
+![Image Accueil Eq](../images/EqAccueil.PNG")
 
 * **Nom de l’équipement** : nom de votre équipement gestionmsg
 * **Objet parent** : indique l’objet parent auquel appartient l’équipement
@@ -67,57 +67,57 @@ Même principe que pour tous les équipements Jeedom, après avoir saisi le nom 
 
 Cet Onglet permet de gérer les groupes de destinataire.
 
-![Image widget](../images/EqOngletGroup0.PNG")
+![Image EqOnglet](../images/EqOngletGroup0.PNG")
 
 1. Cliquer sur le bouton **Ajouter un groupe**
 2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau groupe: ex. TEST
 
-   ![Image widget](../images/EqOngletGroupNom.PNG")
+![Image EqOngletGroupNom](../images/EqOngletGroupNom.PNG")
   
 4. le groupe est créé: ex.TEST
 
-   ![Image widget](../images/EqOngletGroup1.5.PNG")  
+![Image EqOngletGroup1](../images/EqOngletGroup1.5.PNG")  
 
 5. Maintenant vous pouvez ajouter des destinataires au groupe en cliquant sur le bouton **Destinataire**. La page suivante s'affiche:
 
-   ![Image widget](../images/EqOngletGroup2.PNG")
+![Image EqOngletGroup2](../images/EqOngletGroup2.PNG")
 
 6. Selectionner les Destinataires et Sauvegarder. Le groupe est complété avec les destinataires selectionnés.
 
-   ![Image widget](../images/EqOngletGroup1.PNG")
+![Image EqOngletGroup1](../images/EqOngletGroup1.PNG")
 
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 
-   ![Image widget](../images/SauvegarderGeneral.PNG")
+![Image SaveGeneral](../images/SauvegarderGeneral.PNG")
 
 ### Onglet Message
  
 Cet Onglet permet de gérer les messages.
 
-![Image widget](../images/EqOngletMsg0.PNG")
+![Image EqOngletMsg0](../images/EqOngletMsg0.PNG")
 
 1. Cliquer sur le bouton **Ajouter un type de message**
 2. La fenêtre suivante s'ouvre pour saisir le nom du nouveau type de message: ex. MAIL
 
 3.le message type est créé: ex.MAIL
 
-![Image widget](../images/EqOngletMsg1.PNG")
+![Image EqOngletMsg1](../images/EqOngletMsg1.PNG")
 
 4.maintenant il faut lui attribuer un groupe:
 
-![Image widget](../images/EqOngletMsgSelect.PNG")
+![Image EqOngletMsgSelect](../images/EqOngletMsgSelect.PNG")
 
 5.Attribuer une commande: ex.le plugin mail est installée avec un equipement testMail.
 
-![Image widget](../images/EqOngletMsg1Zoom1.PNG")
+![Image EqOngletMsgZoom1](../images/EqOngletMsg1Zoom1.PNG")
 
 6.Saisir un message: ex.test message Mail.
 
-![Image widget](../images/EqOngletMsg1Zoom2.PNG")
+![Image EqOngletMsgZoom2](../images/EqOngletMsg1Zoom2.PNG")
 
 **SAUVEGARDER TOUT en cliquant sur le bouton suivant:**
 
-![Image widget](../images/SauvegarderGeneral.PNG")
+![Image saveGene](../images/SauvegarderGeneral.PNG")
 
 
 # Widget du Plugin
