@@ -1,6 +1,8 @@
 # Plugin gestionmsg
 
-gestionmsg est un plugin **Jeedom** qui permet de gérer les destinataires et messages associés.
+gestionmsg est un plugin **Jeedom** qui permet de centraliser la gestion des destinataires et messages associés.
+Ce plugin s'appuie sur les plugins officiels **mail** et **sms** dans un premier temps. 
+Des mises à jour seront faites par la suite en intégrant d'autre plugins de communication... (A suivre)
 
 # Configuration du plugin
 Après avoir installé le plugin, il vous suffit de l’activer. Ce plugin n’a aucune configuration particulière :
@@ -35,9 +37,6 @@ Depuis cette fenêtre, on peut gérer les destinataires:
  1. Si le destinataire n'existe pas dans les Users alors un User du nom du destinataire sera créé (il sera non actif, et sans droits).
  2. Si une commande porte le nom du destinataire dans les plugins de type communication alors les numeros de telephone et e-mail seront mis à jour.
 * **Supprimer**: permet de supprimer en meme temps les destinataires selectionnés 
-
-**LE PLUGIN AJOUTE OU MET A JOUR JEEDOM OU LES AUTRES PLUGINS MAIS NE SUPPRIME PAS DES COMMANDES.**
-
 
 
 ![Image modal Entete](../images/mdGestionDestinatairesEx.PNG)
