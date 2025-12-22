@@ -3,7 +3,7 @@
 gestionmsg est un plugin **Jeedom** qui permet de centraliser la gestion des destinataires et messages associés.</br>
 
 Ce plugin s'appuie sur les plugins officiels **mail** et **sms** dans un premier temps. .</br>
-Des mises à jour seront faites par la suite en intégrant d'autre plugins de communication... (A suivre).</br>
+Des mises à jour seront faites par la suite en intégrant d'autres plugins de *communication*... (A suivre).</br>
 
 # Configuration du plugin
 Après avoir installé le plugin, il vous suffit de l’activer. Ce plugin n’a aucune configuration particulière :
